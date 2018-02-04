@@ -1,8 +1,9 @@
 // core
 const foregroundColor = '#F1EFF7'
 const backgroundColor = '#292A44'
-const cursorColor = 'rgba(79, 82, 138, 0.8)'
-const selectionColor = '#4F528A'
+const cursorColor = 'rgba(79,82,138,0.8)'
+const cursorAccentColor = '#F1EFF7'
+const selectionColor = 'rgba(79,82,138,0.3)'
 const borderColor = '#333454'
 // colors
 const black = '#333454'
@@ -21,6 +22,7 @@ exports.decorateConfig = config =>
     cursorColor,
     selectionColor,
     borderColor,
+    cursorAccentColor,
     colors: {
       black,
       red,
