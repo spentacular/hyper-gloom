@@ -1,0 +1,7 @@
+{
+  "name": "@spentacular/hyper-gloom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Spencer Hamm <spentacular@gmail.com>",
+  "license": "MIT"
+}
